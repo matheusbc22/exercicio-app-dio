@@ -1,2 +1,2 @@
-# exercicio-app-dio
+# Exercício APP DIO
 Exercício para DIO (Digital Innovation One), criação de um app com a string mudando dependendo do idioma do dispositivo. 
